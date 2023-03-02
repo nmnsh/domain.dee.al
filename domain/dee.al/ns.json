@@ -109,6 +109,16 @@
  "koneksi" : "NS",
  "hostku" : "herobrine",
  "target": "ns2.vercel-dns.com"
+    },
+  {
+ "koneksi" : "NS",
+ "hostku" : "beni",
+ "target": "shane.ns.cloudflare.com"
+    },
+  {
+ "koneksi" : "NS",
+ "hostku" : "beni",
+ "target": "sierra.ns.cloudflare.com"
     }
 
 ]
